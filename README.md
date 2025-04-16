@@ -1,6 +1,6 @@
 # LSRP
 
-The source code of the paper: CoGenesis: LSRP A Leader–Subordinate Retrival Framework for Privacy-Preserving Cloud–Device Collaboration.
+The source code of the paper: LSRP A Leader–Subordinate Retrival Framework for Privacy-Preserving Cloud–Device Collaboration.
 
 ## Highlights of the Paper
 
