@@ -59,7 +59,7 @@ def ppl_res(data):
         ppl_ls.append(ppl)
     return np.exp(-np.mean(ppl_ls))
 
-API_KEY = 'sk-8WFPcdwKoCURDmFR5c4c13EdD486435cB15f0bAcB247470b'
+API_KEY = 'xxx'
 
 BASE_URL = "https://api.gpt.ge/v1/"
 # BASE_URL = "https://run.v36.cm/v1"
